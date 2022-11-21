@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @clodoN1109.
 - 👀 I’m interested in everything.
 - 🌱 I’m currently learning all sort of things.
-- 💞️ I’m looking to collaborate on the comprehension of those things.  
+- 💞️ I’m looking to collaborate on the comprehension of all those things.  
 - 📫 How to reach me: [clodo.me](https://www.clodo.me)  .
 
 <!---
