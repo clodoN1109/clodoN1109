@@ -1,7 +1,9 @@
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+<a href='https//:clodo.me'>![website](https://img.shields.io/badge/website-clodo.me-blue)</a>
+![email](https://img.shields.io/badge/email-orange)
+![linkedin](https://img.shields.io/badge/linkedin-blue)
+
+![memory](https://img.shields.io/badge/memory_usage-99%25-red)
+![philosophy](https://img.shields.io/badge/philosophy-philosophy-yellow)
 
 - 😜 Hi, I’m Clodo.
 - 👀🪐👨🏽‍💻 I'm mostly interested in computer science and physics, but I’m constantly attracted towards all sort of subjects (and not merely by gravity).
