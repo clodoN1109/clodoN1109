@@ -1,3 +1,8 @@
+| First Header  | Second Header |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
+
 - 😜 Hi, I’m Clodo.
 - 👀🪐👨🏽‍💻 I'm mostly interested in computer science and physics, but I’m constantly attracted towards all sort of subjects (and not merely by gravity).
 - 📚 I'm currently learning Javascript and Python and I'm always trying to come up with ideias to challenge my skills.  
