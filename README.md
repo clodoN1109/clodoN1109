@@ -1,5 +1,4 @@
-![img-A5-IA-HighRes](https://user-images.githubusercontent.com/104923248/214646244-de595b1d-44e9-403b-b052-e4c5e4de004a.jpg)
-
+![DSCN2172](https://user-images.githubusercontent.com/104923248/214688635-cd3537fc-eff6-4363-9bc0-26a6d3bf8b3f.JPG)
 
 <a href='https//:clodo.me'>![website](https://img.shields.io/badge/website-clodo.me-blue)</a>
 ![email](https://img.shields.io/badge/email-orange)
@@ -24,6 +23,11 @@
 
 ![clodo](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=clodoN1109)
 ![lang](https://github-readme-stats.vercel.app/api/top-langs/?username=clodoN1109)
+
+
+![img-A5-IA-HighRes](https://user-images.githubusercontent.com/104923248/214646244-de595b1d-44e9-403b-b052-e4c5e4de004a.jpg)
+
+
 
 <!---
 clodoN1109/clodoN1109 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
