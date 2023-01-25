@@ -1,4 +1,4 @@
-![Eu - Japaratinga - 2022-10-09 at 17 35 12 - Copia - Copia](https://user-images.githubusercontent.com/104923248/214620568-ff06e54b-3202-4fb6-a478-5bb3fec42f60.jpeg)
+
 
 <a href='https//:clodo.me'>![website](https://img.shields.io/badge/website-clodo.me-blue)</a>
 ![email](https://img.shields.io/badge/email-orange)
