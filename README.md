@@ -1,3 +1,5 @@
+![Eu - Japaratinga - 2022-10-09 at 17 35 12 - Copia - Copia](https://user-images.githubusercontent.com/104923248/214620568-ff06e54b-3202-4fb6-a478-5bb3fec42f60.jpeg)
+
 <a href='https//:clodo.me'>![website](https://img.shields.io/badge/website-clodo.me-blue)</a>
 ![email](https://img.shields.io/badge/email-orange)
 ![linkedin](https://img.shields.io/badge/linkedin-blue)
@@ -12,7 +14,8 @@
 
 - 👾 How to reach me: [clodo.me](https://www.clodo.me) / [linkedin](https://www.linkedin.com/in/clodomirvianna/).
 
-
+![clodo](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=clodoN1109)
+![lang](https://github-readme-stats.vercel.app/api/top-langs/?username=clodoN1109)
 
 <!---
 clodoN1109/clodoN1109 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
