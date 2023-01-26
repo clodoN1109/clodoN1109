@@ -43,6 +43,8 @@
 ![clodo](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=clodoN1109)
 ![lang](https://github-readme-stats.vercel.app/api/top-langs/?username=clodoN1109)
 
+![image](https://user-images.githubusercontent.com/104923248/214860067-31ec57bb-0ada-4ebd-a5d0-699e69a13e1b.png)
+
 
 ![img-A5-IA-HighRes](https://user-images.githubusercontent.com/104923248/214646244-de595b1d-44e9-403b-b052-e4c5e4de004a.jpg)
 
