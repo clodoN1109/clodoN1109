@@ -20,11 +20,11 @@
 <a href="https://www.goya.com/media/4027/pink-beans-and-rice1.jpg?quality=80">![dish](https://img.shields.io/badge/dish-rice_with_beans-yellow)</a>
 
 
-![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+<a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript">![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)</a>
+<a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML">![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)</a>
+<a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS">![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)</a>
+<a href="https://www.python.org/">![python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)</a>
+<a href="https://learn.microsoft.com/pt-br/dotnet/csharp/">![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)</a>
 
 <a href="https://unity.com">![unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)</a>
 
