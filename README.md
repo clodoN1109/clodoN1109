@@ -1,8 +1,11 @@
 ![DSCN2172](https://user-images.githubusercontent.com/104923248/214688635-cd3537fc-eff6-4363-9bc0-26a6d3bf8b3f.JPG)
 
-<a href='https//:clodo.me'>![website](https://img.shields.io/badge/website-clodo.me-blue)</a>
-![email](https://img.shields.io/badge/email-orange)
-![linkedin](https://img.shields.io/badge/linkedin-blue)
+<a href="https://www.clodo.me">![website](https://img.shields.io/badge/website-clodo.me-blue)</a>
+[![email](https://img.shields.io/badge/email-orange)](mailto:clovianna@gmail.com)
+<a href="https://www.linkedin.com/in/clodomirvianna/">![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+<a href="https://www.instagram.com/viannaclodomir/">![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)</a>
+
+
 
 ![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
