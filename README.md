@@ -14,7 +14,7 @@
 
 ![movie](https://img.shields.io/badge/movie-Perfect_Sense-lightblue)
 ![series](https://img.shields.io/badge/series-Violet_Evergarden-pink)
-![song](https://img.shields.io/badge/song-Nessun_Dorma-red)
+![song](https://img.shields.io/badge/song-One_Ok_Rock_Vandalize-red)
 ![book](https://img.shields.io/badge/book-Hitchhiker's_Guide_To_The_Galaxy-green)
 ![game](https://img.shields.io/badge/game-Shenmue-blue)
 ![dish](https://img.shields.io/badge/dish-rice_with_beans-yellow)
