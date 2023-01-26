@@ -12,12 +12,12 @@
 <a href="https://www.linkedin.com/in/clodomirvianna/">![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)</a>
 <a href="https://www.instagram.com/viannaclodomir/">![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat&logo=Instagram&logoColor=white)</a>
 
-![movie](https://img.shields.io/badge/movie-Perfect_Sense-lightblue)
-![series](https://img.shields.io/badge/series-Violet_Evergarden-pink)
-![song](https://img.shields.io/badge/song-björk_:_atopos-red)
-![book](https://img.shields.io/badge/book-Hitchhiker's_Guide_To_The_Galaxy-green)
-![game](https://img.shields.io/badge/game-Shenmue-blue)
-![dish](https://img.shields.io/badge/dish-rice_with_beans-yellow)
+<a href="https://www.imdb.com/title/tt1439572/">![movie](https://img.shields.io/badge/movie-Perfect_Sense-lightblue)</a>
+<a href="https://www.imdb.com/title/tt7078180/?ref_=nv_sr_srsg_0">![series](https://img.shields.io/badge/series-Violet_Evergarden-pink)</a>
+<a href="https://www.youtube.com/watch?v=9FD2mUonh5s">![song](https://img.shields.io/badge/song-björk_:_atopos-red)</a>
+<a href="https://en.wikipedia.org/wiki/The_Hitchhiker%27s_Guide_to_the_Galaxy">![book](https://img.shields.io/badge/book-Hitchhiker's_Guide_To_The_Galaxy-green)</a>
+<a href="https://pt.wikipedia.org/wiki/Shenmue">![game](https://img.shields.io/badge/game-Shenmue-blue)</a>
+<a href="https://www.goya.com/media/4027/pink-beans-and-rice1.jpg?quality=80">![dish](https://img.shields.io/badge/dish-rice_with_beans-yellow)</a>
 
 
 ![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
@@ -26,7 +26,7 @@
 ![python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 
-![unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
+<a href="https://unity.com">![unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)</a>
 
 
 
