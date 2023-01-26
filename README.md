@@ -1,5 +1,7 @@
 <h3 > import Universe from './Universe'</h3>
 
+<h3> const Earth = new Universe.planet();</h3>
+
 <h3> let Clodo = {</h3>
 
 
