@@ -1,3 +1,5 @@
+<h3> let Clodo = {</h3>
+
 ![DSCN2172](https://user-images.githubusercontent.com/104923248/214688635-cd3537fc-eff6-4363-9bc0-26a6d3bf8b3f.JPG)
 
 <a href="https://www.clodo.me">![website](https://img.shields.io/badge/website-clodo.me-blue)</a>
@@ -5,17 +7,22 @@
 <a href="https://www.linkedin.com/in/clodomirvianna/">![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)</a>
 <a href="https://www.instagram.com/viannaclodomir/">![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat&logo=Instagram&logoColor=white)</a>
 
-
-
 ![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 
-![memory](https://img.shields.io/badge/brain_memory_usage-99%25-red)
-![philosophy](https://img.shields.io/badge/philosophy-philosophy-yellow)
 
+
+![movie](https://img.shields.io/badge/movies-Perfect_Sense-lightblue)
+![series](https://img.shields.io/badge/series-Violet_Evergarden-pink)
+![song](https://img.shields.io/badge/song-Nessun_Dorma-red)
+![book](https://img.shields.io/badge/book-Hitchhiker's_Guide_To_The_Galaxy-green)
+![game](https://img.shields.io/badge/game-Shenmue-blue)
+![food](https://img.shields.io/badge/food-rice_and_beans-yellow)
+
+<h3>}</h3>
 
 - 😜 Hi, I’m Clodo.
 - An astonished observer 👀 seeking some knowledge 📚 and connections 🔗 with this world. 
