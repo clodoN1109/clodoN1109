@@ -9,6 +9,14 @@
 <a href="https://www.linkedin.com/in/clodomirvianna/">![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)</a>
 <a href="https://www.instagram.com/viannaclodomir/">![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat&logo=Instagram&logoColor=white)</a>
 
+![movie](https://img.shields.io/badge/movie-Perfect_Sense-lightblue)
+![series](https://img.shields.io/badge/series-Violet_Evergarden-pink)
+![song](https://img.shields.io/badge/song-Nessun_Dorma-red)
+![book](https://img.shields.io/badge/book-Hitchhiker's_Guide_To_The_Galaxy-green)
+![game](https://img.shields.io/badge/game-Shenmue-blue)
+![dish](https://img.shields.io/badge/dish-rice_with_beans-yellow)
+
+
 ![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -16,15 +24,8 @@
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 
 ![unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
-![images](https://user-images.githubusercontent.com/104923248/214838721-3d654c0a-5d8f-4575-8e71-9d0256c2cd59.jpeg)
 
 
-![movie](https://img.shields.io/badge/movies-Perfect_Sense-lightblue)
-![series](https://img.shields.io/badge/series-Violet_Evergarden-pink)
-![song](https://img.shields.io/badge/song-Nessun_Dorma-red)
-![book](https://img.shields.io/badge/book-Hitchhiker's_Guide_To_The_Galaxy-green)
-![game](https://img.shields.io/badge/game-Shenmue-blue)
-![food](https://img.shields.io/badge/food-rice_and_beans-yellow)
 
 <h3>}</h3>
 
