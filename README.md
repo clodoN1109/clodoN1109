@@ -18,6 +18,7 @@
 <a href="https://en.wikipedia.org/wiki/The_Hitchhiker%27s_Guide_to_the_Galaxy">![book](https://img.shields.io/badge/book-Hitchhiker's_Guide_To_The_Galaxy-green)</a>
 <a href="https://pt.wikipedia.org/wiki/Shenmue">![game](https://img.shields.io/badge/game-Shenmue-blue)</a>
 <a href="https://www.goya.com/media/4027/pink-beans-and-rice1.jpg?quality=80">![dish](https://img.shields.io/badge/dish-rice_with_beans-yellow)</a>
+<a href="">![font](https://img.shields.io/badge/font-courier_new-white)</a>
 
 
 <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript">![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)</a>
