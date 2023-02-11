@@ -28,6 +28,7 @@
 <a href="https://learn.microsoft.com/pt-br/dotnet/csharp/">![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)</a>
 
 <a href="https://unity.com">![unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)</a>
+<a href="https://pt-br.reactjs.org/">![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)</a>
 
 
 
