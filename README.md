@@ -43,7 +43,7 @@
 - 👾 How to connect with me: [clodo.me](https://www.clodo.me) / [linkedin](https://www.linkedin.com/in/clodomirvianna/).
 
 ![clodo](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=clodoN1109)
-![lang](https://github-readme-stats.vercel.app/api/top-langs/?username=clodoN1109)
+
 
 ![image](https://user-images.githubusercontent.com/104923248/214860067-31ec57bb-0ada-4ebd-a5d0-699e69a13e1b.png)
 
