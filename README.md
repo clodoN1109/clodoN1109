@@ -1,20 +1,12 @@
-<h3 > import Universe from './Universe';</h3>
+<h3> import Universe from './Universe'; </h3>
 
-<h3> const Earth = new Universe.planet('auto');</h3>
+<h3>const Earth = new Universe.planet('auto'); </h3>
 
-<h3> let Clodo = {</h3>
-
+<h3>let Clodo = { </h3>
 
 ![DSCN2172](https://user-images.githubusercontent.com/104923248/214688635-cd3537fc-eff6-4363-9bc0-26a6d3bf8b3f.JPG)
 
 <a href="https://www.clodo.me">![website](https://img.shields.io/badge/website-clodo.me-blue)</a>
-
-<!--
-[![email](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:clovianna@gmail.com)
-<a href="https://www.linkedin.com/in/clodomirvianna/">![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)</a>
-<a href="https://www.instagram.com/viannaclodomir/">![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat&logo=Instagram&logoColor=white)</a> -->
-
-
 
 <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript">![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)</a>
 <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML">![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)</a>
@@ -25,11 +17,9 @@
 <a href="https://unity.com">![unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)</a>
 <a href="https://pt-br.reactjs.org/">![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)</a>
 
+}
 
-
-<h3>}</h3>
-
-- 🪐👨🏽‍💻 I'm Clodo, a designer and computer programmer developing new ways to explore the frontiers between computer science, economics and physics.
+- 👨🏽‍💻 I'm Clodo, a designer and computer programmer seeking to build new bridges across computer science, economics and physics.
 - 👾 How to connect with me: [clodo.me](https://www.clodo.me).
 
 ![clodo](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=clodoN1109)
