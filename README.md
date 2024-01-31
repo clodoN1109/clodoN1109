@@ -18,7 +18,7 @@
 
 <a href="https://unity.com">![unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)</a>
 <a href="https://pt-br.reactjs.org/">![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)</a>
-<a href="https://pt-br.reactjs.org/">![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)</a>
+<a href="https://dotnet.microsoft.com/en-us/">![dotnet](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)</a>
 
 👨🏽‍💻 A designer and computer programmer seeking to build new bridges using computer science.
 
