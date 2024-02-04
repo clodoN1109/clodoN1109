@@ -7,8 +7,8 @@
 <div align="center">
   
 ![DSCN2172](https://user-images.githubusercontent.com/104923248/214688635-cd3537fc-eff6-4363-9bc0-26a6d3bf8b3f.JPG)
+![clodo](https://github-readme-stats.vercel.app/api?username=clodoN1109&theme=calm_pink&show_icons=true)
 
-<a href="https://www.clodo.me">![website](https://img.shields.io/badge/website-clodo.me-blue)</a>
 
 <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript">![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)</a>
 <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML">![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)</a>
@@ -20,22 +20,24 @@
 <a href="https://pt-br.reactjs.org/">![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)</a>
 <a href="https://dotnet.microsoft.com/en-us/">![dotnet](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)</a>
 
-👨🏽‍💻 A designer and computer programmer seeking to build new bridges using computer science.
+👨🏽‍💻 A designer and programmer developing metaphorical bridges through computers.
 
-👾 How to connect with me: [clodo.me](https://www.clodo.me).
+👾 How to connect with me: <a href="https://www.clodo.me">![website](https://img.shields.io/badge/website-clodo.me-blue)</a>
 
 </div>
 
 
 }
 
+##
 
+<div align="right">
+  <img src="https://github.com/clodoN1109/turing-universal-machines/assets/104923248/6b58f7a5-d8ed-4f4f-9e04-21abbde5028c" width="55%">
+</div>
 
-![clodo](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=clodoN1109)
+<div align="left">
 
-<div align="center">
-  
-![crossing-rivers-horizontal-cut](https://github.com/clodoN1109/clodoN1109/assets/104923248/918c26ab-e4bc-47a1-8f01-7d2f5640cf78)
+   <img src="https://github.com/clodoN1109/clodoN1109/assets/104923248/918c26ab-e4bc-47a1-8f01-7d2f5640cf78" width="55%">
 
 </div>
 
