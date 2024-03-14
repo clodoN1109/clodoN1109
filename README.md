@@ -46,7 +46,7 @@ A designer and programmer crafting better connections within the web.
 ##
 
 <div align="left">
-   <img src="https://github.com/clodoN1109/clodoN1109/assets/104923248/8b4c67ad-e1d8-4280-a78f-bdde6d9e06af" width="55%">
+   <img src="https://github.com/clodoN1109/clodoN1109/assets/104923248/719cc235-b70d-4302-a53c-ef9c12390d8e" width="55%">
 </div>
 
 <div align="right">
