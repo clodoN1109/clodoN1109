@@ -35,7 +35,7 @@
 
 <div align="left">
   
-A designer and programmer developing metaphorical bridges through computers.
+A designer and programmer crafting better connections within the web.
 
 <a href="https://www.clodo.me">![website](https://img.shields.io/badge/website-clodo.me-blue)</a>
 
