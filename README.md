@@ -35,7 +35,7 @@
 
 <div align="left">
   
-A designer and programmer climbing the shoulders of giants and craft meaninful connections across the web.
+A designer and programmer climbing the shoulders of giants and crafting meaninful connections across the web.
 
 <a href="https://www.clodo.me">![website](https://img.shields.io/badge/website-clodo.me-blue)</a>
 
