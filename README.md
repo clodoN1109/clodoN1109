@@ -45,14 +45,16 @@ A designer and programmer developing metaphorical bridges through computers.
 
 ##
 
+<div align="left">
+   <img src="https://github.com/clodoN1109/clodoN1109/assets/104923248/b50d90ae-3f69-4193-907a-89cfec7f56e7" width="55%">
+</div>
+
 <div align="right">
   <img src="https://github.com/clodoN1109/turing-universal-machines/assets/104923248/6b58f7a5-d8ed-4f4f-9e04-21abbde5028c" width="55%">
 </div>
 
 <div align="left">
-
    <img src="https://github.com/clodoN1109/clodoN1109/assets/104923248/918c26ab-e4bc-47a1-8f01-7d2f5640cf78" width="55%">
-
 </div>
 
 <!---
