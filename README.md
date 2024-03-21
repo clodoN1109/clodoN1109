@@ -35,7 +35,7 @@
 
 <div align="left">
   
-A designer and programmer crafting meaninful connections across the web.
+A designer and programmer crafting helpful connections across the web.
 
 <a href="https://www.clodo.me">![website](https://img.shields.io/badge/website-clodo.me-blue)</a>
 
