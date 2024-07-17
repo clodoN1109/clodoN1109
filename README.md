@@ -36,7 +36,7 @@
 
 <div align="left">
   
-### A programmer crafting meaninful connections across the web.
+### A programmer crafting connections across the web.
 
 </div>
 
