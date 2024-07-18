@@ -25,7 +25,7 @@ languages: [ <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript">!
 
 <div align="left">
   
-   frameworks:
+   tools:
   [  <a href=""><img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D"></a>, 
     ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB),
     <a href="https://dotnet.microsoft.com/en-us/">![dotnet](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)</a>],
