@@ -12,12 +12,12 @@
 
 <div align="left">
 
-languages: [ <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript">![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)</a>,
-  <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML">![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)</a>,
-  <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS">![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)</a>,
-  <a href="https://www.python.org/">![python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)</a>,
-  <a href="https://learn.microsoft.com/pt-br/dotnet/csharp/">![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)</a>,
-  <a href="">![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)</a>   ],
+<a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript">![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)</a>
+  <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML">![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)</a>
+  <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS">![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)</a>
+  <a href="https://www.python.org/">![python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)</a>
+  <a href="https://learn.microsoft.com/pt-br/dotnet/csharp/">![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)</a>
+  <a href="">![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)</a>   
 
 
 
@@ -25,10 +25,9 @@ languages: [ <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript">!
 
 <div align="left">
   
-   tools:
-  [  <a href=""><img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D"></a>, 
-    ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB),
-    <a href="https://dotnet.microsoft.com/en-us/">![dotnet](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)</a>],
+   <a href=""><img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D"></a>
+    ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+    <a href="https://dotnet.microsoft.com/en-us/">![dotnet](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)</a>
 
 </div>
 
